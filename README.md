@@ -64,7 +64,7 @@ Isenção nos Dividendos: Para investidores pessoa física, os rendimentos mensa
 
 # Dica importante: Para quem busca acumular patrimônio a longo prazo, o ideal é reinvestir os dividendos recebidos para comprar mais cotas, criando um efeito de "bola de neve".
 
-# RESUMO FINAL
+# MINI GUIA
 
 Os Fundos de Investimento Imobiliário (FIIs) representam uma modalidade de investimento coletivo, funcionando como um "condomínio" onde diversos investidores (cotistas) reúnem recursos para aplicar no mercado imobiliário.
 
@@ -153,7 +153,11 @@ Neste trabalho busquei conceituar e mostrar de forma simples como os fundos func
 # REFERÊNCIAS
 
 https://www.youtube.com/watch?v=z3fTzc0q10M
+
 https://www.santander.com.br/blog/como-investir-em-fundos-imobiliarios
+
 https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/fundos-imobiliarios/
+
 https://www.infomoney.com.br/guias/fundos-imobiliarios/
+
 https://www.gov.br/investidor/pt-br/investir/tipos-de-investimentos/fundos-de-investimentos-imobiliarios-fii
