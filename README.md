@@ -1,10 +1,12 @@
-# Estudo para conhecer a Linguagem de Programação Python.
-# OBJETIVOS:
-Saber porque Python é importante
-Aprender o básico de Python
-Aplicações de Python no mercado
+# Entendendo o básico de Fundo de Investimento Imobiliário (FII).
+# Escolhi esse tema pelo fascínio com as operações financeiras, e os FIIs são uma ótima porta de entrada para operar na bolsa de valores.
+OBJETIVOS:
+# 1 Entender o básico de Fundos Imobiliários
+# 2 Quais tipos de FIIs existem
+# 3 Como investir
 
-Importância da LPP:
-Python é importante porque democratiza o acesso à programação, permitindo que profissionais de diversas áreas — mesmo sem experiência prévia em computação — consigam realizar análises complexas e automatizar processos com eficiência. (Fonte: https://www.bcb.gov.br/content/estabilidadefinanceira/geotec-documentos/introducao-programacao-aula-01.pdf)
+# O que são Fundos de Investimento Imobiliário?
+Os Fundos de Investimento Imobiliário (FIIs) são uma modalidade de investimento coletivo, funcionando como um "condomínio" de investidores que reúnem seus recursos para aplicar em conjunto no setor imobiliário. Essa soma de recursos forma o patrimônio do fundo, que é dividido em cotas, representando pequenas frações do fundo que podem ser negociadas na Bolsa de Valores (B3).
+Ao adquirir uma cota, o investidor torna-se um cotista e passa a ter direito a uma parte proporcional dos resultados gerados pelo fundo. De forma simplificada, é como se o investidor comprasse "pedaços" ou fatias de grandes empreendimentos imobiliários sem precisar adquirir o imóvel inteiro
 
-Aprender o básico de Python:
+# Quais os tipos de FIIs existentes e suas características?
