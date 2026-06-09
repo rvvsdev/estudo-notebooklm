@@ -178,7 +178,7 @@ Taxa de Administração: Valor pago anualmente pelo fundo para remunerar os serv
 Taxa de Performance: Prêmio pago ao gestor caso o fundo supere um determinado indicador de referência (benchmark).
 
 
-PROMPTS UTILIZADOS:
+# PROMPTS UTILIZADOS:
 
 O que são Fundos Imobiliários: Solicitou a definição básica dos FIIs como um investimento coletivo ou "condomínio" voltado ao setor imobiliário.
 
